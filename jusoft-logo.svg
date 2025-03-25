@@ -1,6 +1,6 @@
 <svg version="1.1" 
      baseProfile="full" 
-     width="400" height="150" 
+     width="450" height="180" 
      xmlns="http://www.w3.org/2000/svg">
 
   <style>
@@ -14,11 +14,20 @@
       font-weight: 400;
       font-size: 16px;
     }
+    .logo-slogan {
+      font-family: "Arial", sans-serif;
+      font-weight: 400;
+      font-size: 14px;
+      font-style: italic;
+    }
   </style>
 
-  <text x="40" y="80" font-size="60px" text-anchor="middle" fill="#1D4ED8" font-family="monospace">&#123;</text>
-  <text x="120" y="80" font-size="60px" text-anchor="middle" fill="#1D4ED8" font-family="monospace">J</text>
-  <text x="200" y="80" font-size="60px" text-anchor="middle" fill="#1D4ED8" font-family="monospace">&#125;</text>
+  <text x="60" y="90" font-size="60px" text-anchor="middle" fill="#1D4ED8" font-family="monospace">&#123;</text>
+  <text x="140" y="90" font-size="60px" text-anchor="middle" fill="#1D4ED8" font-family="monospace">J</text>
+  <text x="220" y="90" font-size="60px" text-anchor="middle" fill="#1D4ED8" font-family="monospace">&#125;</text>
 
-  <text x="230" y="75" fill="#1D4ED8" class="logo-text">JuSoft</text>
+  <text x="250" y="85" fill="#1D4ED8" class="logo-text">JuSoft</text>
+  <text x="251" y="110" fill="#9CA3AF" class="logo-subtext">jusoft.org</text>
+
+  <text x="225" y="155" fill="#6B7280" text-anchor="middle" class="logo-slogan">Empowering through Software</text>
 </svg>
